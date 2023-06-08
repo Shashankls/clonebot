@@ -16,9 +16,9 @@ Read the <a href="https://space4renjith.blogspot.com/2022/05/clonebot-technical-
     <br><br>
         1. Fork this Repository first.
     <br>
-        2. Change the <a href="https://github.com/m4mallu/clonebot/blob/master/app.json#L7" target="_blank"> app.json </a> 'repository' URL to your fork URL.
+        2. Change the <a href="https://github.com/m4mallu/clonebot/blob/master/app.json#L7" target="_blank"> app.json </a> 'repository' https://github.com/Shashankls/clonebot.
     <br>
-        3. Change the <a href="https://github.com/m4mallu/clonebot/blob/master/README.md?plain=1#L25" target="_blank"> deploy button </a> URL to your fork URL.
+        3. Change the <a href="https://github.com/m4mallu/clonebot/blob/master/README.md?plain=1#L25" target="_blank"> deploy button </a> https://github.com/Shashankls/clonebot.
     <br>
         4. Finally, deploy it from your own fork (<a href="https://telegra.ph/Attention-to-clone-bot-users-08-01" target="_blank">Risk factor</a>).
     <br><br>
